@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LegalDocs AI - Anonymize & Summarize</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#home">LegalDocs AI</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#demo">Demo</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section id="home" class="hero py-5 text-center">
+        <div class="container">
+            <h1 class="display-4 fw-bold">AI-Powered Document Processing</h1>
+            <p class="lead mb-4">Anonymize and summarize legal documents effortlessly.</p>
+            <a href="#demo" class="btn btn-primary btn-lg">Try Now</a>
+        </div>
+    </section>
+
+    <section id="demo" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center mb-5">Demo</h2>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <ul class="nav nav-tabs" id="demoTabs">
+                                <li class="nav-item">
+                                    <button class="nav-link active" id="upload-tab" data-bs-toggle="tab"
+                                        data-bs-target="#upload">Upload</button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="nav-link" id="sample-tab" data-bs-toggle="tab"
+                                        data-bs-target="#sample">Sample</button>
+                                </li>
+                            </ul>
+                            <div class="tab-content p-3">
+                                <div class="tab-pane fade show active" id="upload">
+                                    <form id="document-form">
+                                        <div class="mb-3">
+                                            <label for="document-upload" class="form-label">Upload Document (PDF, DOCX,
+                                                TXT)</label>
+                                            <input class="form-control" type="file" id="document-upload"
+                                                accept=".pdf,.docx,.txt" required>
+                                        </div>
+                                        <div class="mb-3 form-check">
+                                            <input type="checkbox" class="form-check-input" id="anonymize-check"
+                                                checked>
+                                            <label class="form-check-label" for="anonymize-check">Anonymize</label>
+                                        </div>
+                                        <div class="mb-3 form-check">
+                                            <input type="checkbox" class="form-check-input" id="summarize-check"
+                                                checked>
+                                            <label class="form-check-label" for="summarize-check">Summarize</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary w-100">Process</button>
+                                    </form>
+                                </div>
+                                <div class="tab-pane fade" id="sample">
+                                    <div class="mb-3">
+                                        <label for="sample-select" class="form-label">Select Sample</label>
+                                        <select class="form-select" id="sample-select">
+                                            <option value="">Choose a type...</option>
+                                            <option value="invoice">Invoice</option>
+                                            <option value="agreement">Agreement</option>
+                                            <option value="bank">Bank Statement</option>
+                                            <option value="medical">Medical Record</option>
+                                        </select>
+                                    </div>
+                                    <div class="mb-3 form-check">
+                                        <input type="checkbox" class="form-check-input" id="sample-anonymize-check"
+                                            checked>
+                                        <label class="form-check-label" for="sample-anonymize-check">Anonymize</label>
+                                    </div>
+                                    <div class="mb-3 form-check">
+                                        <input type="checkbox" class="form-check-input" id="sample-summarize-check"
+                                            checked>
+                                        <label class="form-check-label" for="sample-summarize-check">Summarize</label>
+                                    </div>
+                                    <button id="process-sample-btn" class="btn btn-primary w-100">Process
+                                        Sample</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="results-container" class="mt-4 d-none">
+                        <div class="card shadow-sm">
+                            <div class="card-header">
+                                <ul class="nav nav-tabs card-header-tabs" id="resultTabs">
+                                    <li class="nav-item"><button class="nav-link active" data-bs-toggle="tab"
+                                            data-bs-target="#original">Original</button></li>
+                                    <li class="nav-item"><button class="nav-link" data-bs-toggle="tab"
+                                            data-bs-target="#anonymized">Anonymized</button></li>
+                                    <li class="nav-item"><button class="nav-link" data-bs-toggle="tab"
+                                            data-bs-target="#summary">Summary</button></li>
+                                </ul>
+                            </div>
+                            <div class="card-body">
+                                <div class="tab-content">
+                                    <div class="tab-pane fade show active" id="original">
+                                        <pre id="original-content"></pre>
+                                    </div>
+                                    <div class="tab-pane fade" id="anonymized">
+                                        <pre id="anonymized-content"></pre>
+                                    </div>
+                                    <div class="tab-pane fade" id="summary">
+                                        <div id="summary-content"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-dark text-white py-4">
+        <div class="container text-center">
+            <p>© 2025 LegalDocs AI. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <div class="modal fade" id="loadingModal" tabindex="-1" data-bs-backdrop="static">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body text-center p-5">
+                    <div class="spinner-border text-primary mb-3" role="status"></div>
+                    <h5>Processing Document...</h5>
+                    <p class="text-muted">Please wait a moment.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

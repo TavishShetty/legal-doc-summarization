@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+PyPDF2==3.0.1
+gunicorn==21.2.0
+werkzeug==2.3.7
+python-dotenv==1.0.0
+# Add python-docx if you want DOCX support
