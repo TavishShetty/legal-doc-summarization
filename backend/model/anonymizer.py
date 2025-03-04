@@ -1,8 +1,14 @@
-import re
+from transformers import pipeline
 
 def anonymize_text(text):
-    # Replace with your friend's actual ML model
-    text = re.sub(r'\b[A-Z][a-z]+ [A-Z][a-z]+\b', '[NAME]', text)
-    text = re.sub(r'\b\d{10}\b', '[PHONE]', text)
-    text = re.sub(r'\d+ [A-Za-z]+ (Street|Avenue|Road)', '[ADDRESS]', text)
+    nlp = pipeline("ner", model="nlpaueb/legal-bert-base-uncased")
+    entities = nlp(text)
+    for entity in entities:
+        if entity['entity'].startswith('B-'):  # Person, Location, etc.
+            text = text.replace(entity['word'], 'xxxx')
     return text
+
+# Training placeholder (run separately)
+def train_anonymizer(data_folder):
+    # Use synthetic PDFs from data/ to fine-tune Legal-BERT
+    pass
