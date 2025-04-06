@@ -10,3 +10,5 @@ __pycache__/
 
 # Ignore large datasets (if not stored in Git)
 data/
+
+
