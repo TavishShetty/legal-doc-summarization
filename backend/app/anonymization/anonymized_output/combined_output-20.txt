@@ -1,0 +1,90 @@
+Shipment From
+PROFILE FOOD INGREDIENTS
+
+Amy Carlo
+1151 TIMBER DR.
+
+60123 ELGIN Illinois
+United States of America
++XXXX-XXXX-1700
+
+amyXXX@profilefoodingredients.com
+
+Shipment Details
+
+Shipment Date: 2023-01-13
+
+Waybill Number: XXXX-XXXX-8716
+Service Type: EXPRESS WORLDWIDE
+Packaging Type: My Own Package
+Number of Pieces: 1
+
+Total Weight: 8.00Ibs
+Dimensional: 7.19lbs
+
+Chargeable: 8.00Ibs
+
+Insured Amount:
+
+Terms of Trade: DDP
+
+Billing Information
+
+Payment Type: DHL Account Number
+Billing Account: XXXX-XXXX-0738
+
+Duties&taxes acct: 848950
+
+738
+Charge Breakdown: S
+
+JSD
+
+Shipment Receipt
+
+Shipment To
+
+Hamburg Trading Corporation
+
+Jeana Arellano
+
+Lot 1 & 2,Block 2,Meridian Industrial Complex
+Brgy. Macabling
+
+4026 SANTA ROSA CITY
+
+Philippines, the
++XXXX-XXXX-7653
+
+International Information
+
+Declared Value: 1.00 USD
+Duties&taxes acct: Shipper
+
+Dutiable Status: Dutiable
+
+Estimated Del date: Friday, 20 Jan, 2023
+Promo Code:
+
+Special Services: Fuel Surcharge/Duties and
+Taxes Paid/WY/Emergency
+
+Situation
+
+Charge Is estimates unt® OML fewelgh and may not Include all fees and surcharges. Shipments pald by credit card: If the final billed amount exceeds the original
+pre-authorized amount, you will receive a second charge tor the additional amount. Both the original and adaitional charges will reference the same shipment
+
+Reference Information
+
+Reference:
+Pickup reference nr:
+
+HF Peak sample
+AME230113040265
+
+Description of Contents
+
+peak stabilizer
+
+2019 © Deutsche Post AG - All rights reserved
+

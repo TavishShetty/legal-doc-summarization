@@ -1,0 +1,48 @@
+OSBI
+
+Account Name ‘Mr, DEBASISH RAHA,Mrs. ANJALI RAHA
+Address :30,SARJU ROAD,PARSUDIH, VIDYASAGAR PALLY,
+NEW BARADWARI, NEAR HANUMAN MANDIR
+NEAR NETAJI MILAN SANGHA CLUB,JSR-831002
+
+Saralkela-Kharsawan
+Date 5 Nov 2023
+Account Number XXXX-XXXX-5294
+Account Description ‘REGULAR SB CHQ-INDIVIDUALS
+Branch ‘AMY PARSUDIH
+Drawing Power 0.00
+Interest Rate(% p.a.) 2.7
+MOD Balance :0.00
+CIF No. XXXX-XXXX-7523
+IFS Code ‘SBIN0006354
+(Indian Financial System)
+MICR Code XXXX-XXXX-2007
+
+(Magnetic Ink Character Recognition)
+Nomination Registered ‘No
+Balance as on 1 Nov 2023 :980.92
+
+Account Statement from 1 Nov 2023 to 5 Nov 2023
+
+Txn Date |Value Description Ref No./Cheque Balance
+Date No.
+BY TRANSFER- TRANSFER 60,000.00 60,980.92
+NEFT*HDFC0000240°N306232 | FROM
+71531 1073°MIRAE ASSET MF |XXXX-XXXX-4301
+i» 23,820.00 84,800.92
+
+BY TRANSFER-INB aad ack al
+REDUCE ENS 7)
+PGODBSJONFFY 23,813.00 60,987.92
+IGAQJXTOX1
+TRANSFER TO3
+
+IMPS0024084829 55,000.00 5,987.92
+6MOAIOFWPH8
+TRANSFER T
+
+Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)
+with anyone over mail, SMS, phone call or any other media, Bank never asks for such information,
+
+*This is a computer generated statement and does not require a signature.
+

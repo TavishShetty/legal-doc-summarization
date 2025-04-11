@@ -1,0 +1,75 @@
+Shipment From
+DHL Express
+
+Per Hansen
+
+Line 1
+
+Line 24
+
+Line 388
+SKEDSMOKORSET
+test
+
+Norway XXXX-XXXX-5252
+
+Shipment Details
+
+: 30-09-2013
+: XXXX-XXXX-1242
+
+Shipment Date
+Waybill Number
+Service Type : EXPRESS WORLDWIDE
+Packaging Type =: Documents
+
+Number of Pieces : 1
+
+Total Weight : 0,5 kgs
+
+Dimensional Weight: 0,4 kgs
+
+Chargeable Weight : 0,5 kgs
+
+Insured Amount : NWA
+
+Billing Information
+
+DHL Account XXXX-XXXX-0472
+
+Reference Information
+
+Reference : Test shipment
+
+Description of Contents
+test
+
+Shipment Receipt
+
+Shipment To
+
+Test
+
+Test
+
+200 Westcreek Bivd
+TEst
+
+L6TSS6
+BRAMPTON
+
+ON
+
+Canada L6T 5S6
+33333333
+
+International Information
+
+Declared Value 100,00 NOK
+Duties and Taxes Receiver DTU
+Dutiable Status
+
+Dutiable
+
+Estimated Charge 1.228,50 NOK
+

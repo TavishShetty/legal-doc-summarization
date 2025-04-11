@@ -1,0 +1,39 @@
+----------------------------------------
+           INVOICE
+----------------------------------------
+
+Invoice Number: [INVOICE_NUMBER_REDACTED]01  
+Invoice Date: [DATE_REDACTED]  
+Due Date: [DATE_REDACTED]  
+
+[PERSON_REDACTED] To:  
+John Doe  
+ABC Corporation  
+123 Business St, Suite 456  
+[GPE_REDACTED], [ORG_REDACTED], [DATE_REDACTED]  
+Email: [EMAIL_REDACTED]  
+
+Ship To:  
+[PERSON_REDACTED]  
+[ORG_REDACTED] Commerce Ave  
+[GPE_REDACTED], [ORG_REDACTED], [DATE_REDACTED]  
+
+----------------------------------------
+[ORG_REDACTED]  Total  
+----------------------------------------
+Product A            2    $[MONEY_REDACTED]      $[MONEY_REDACTED]  
+Product B            5    $[MONEY_REDACTED]      $1[MONEY_REDACTED]  
+Service Fee          1    $[MONEY_REDACTED]      $[MONEY_REDACTED]  
+----------------------------------------
+Subtotal:                          $[MONEY_REDACTED]  
+Tax (10%):                         $[MONEY_REDACTED]  
+Total:                             $[MONEY_REDACTED]  
+
+Payment Method: Bank Transfer  
+Bank: [ORG_REDACTED] No: [BANK_ACCOUNT_REDACTED]  
+SWIFT Code: XYZB1234  
+
+Notes:  
+Thank you for your business! Please make the payment by the due date.
+
+----------------------------------------

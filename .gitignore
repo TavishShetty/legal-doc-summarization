@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.venv
+
+backend/app/anonymization/anonymize_env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large datasets (if not stored in Git)
+data/
+backend/app/anonymization/documents
+backend/app/ollama/data-privacy-pdf
+backend/app/anonymization/pdf_data

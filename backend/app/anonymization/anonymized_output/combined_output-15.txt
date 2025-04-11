@@ -1,0 +1,66 @@
+amazon | Nn Tax Invoice/Bill of Supply/Cash Memo
+~~
+
+(Original for Recipient)
+
+Sold By : Billing Address :
+
+Varasiddhi Silk Exports Madhu B
+
+* 75, 3rd Cross, Lalbagh Road Eurofins IT Solutions India Pvt Ltd,, 1st Floor,
+
+BENGALURU, KARNATAKA, 560027 Maruti Platinum, Lakshminarayana Pura, AECS
+
+IN Layou
+
+BENGALURU, KARNATAKA, 560037
+
+IN
+
+PAN No: XXXXX3325K State/UT Code: 29
+GST Registration No: 29XXXXX3325K1ZY
+
+Shipping Address :
+
+Madhu B
+
+Madhu B
+
+Eurofins IT Solutions India Pvt Ltd,, 1st Floor,
+
+Maruti Platinum, Lakshminarayana Pura, AECS
+
+Layou
+
+BENGALURU, KARNATAKA, 560037
+
+IN
+
+State/UT Code: 29
+
+Place of supply: KARNATAKA
+
+Place of delivery: KARNATAKA
+
+Order Number: 403-3225714-7676307 Invoice Number : IN-761
+Order Date: 28.10.2019 Invoice Details : KA-XXXX-XXXX-5025-1920
+Invoice Date : 28.10.2019
+
+CGST] 713.45
+
+SGST] 13.45
+Shipping Charges y 2.5% |CGST] {0.77
+SGST]| %0.77
+
+IBO7KGF3KWE8 ( SH-05--42 )
+
+\Varasiddhi Silks Men's Formal Shirt (SH-05-40, Navy Blue, 40) |
+
+IB07KGCS2X7 ( SH-05--40 ) CGST) %[MASKED_AMOUNT]For Varasiddhi Silk Exports:
+
+|
+
+Authorized Signatory
+
+ether tax is payable under reverse charge - No
+

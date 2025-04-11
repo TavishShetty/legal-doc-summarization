@@ -1,0 +1,11 @@
+fastapi==0.115.11
+uvicorn==0.30.6  # Latest version already specified
+python-multipart==0.0.12
+python-docx==1.1.2  # Latest version already specified
+PyPDF2==3.0.1  # Latest version already specified
+transformers==4.36.2  # Latest version already specified
+torch==2.6.0  # Latest version already specified
+fitz==0.0.1.dev2  # No updates available; latest version specified
+supabase==2.3.1  # Latest version already specified
+fastapi-jwt-auth==0.5.0  # Latest version already specified
+bcrypt==4.1.2  # Latest version already specified

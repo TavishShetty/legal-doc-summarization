@@ -1,0 +1,56 @@
+<> HSBC Your Statement
+
+Contact Tel +44 80000000
+
+——- Current Account Statement See reverse for call time
+Account Name AHMAD MUSTAPHA DAFER Text phone +XXXX-XXXX-1249
+el Account number 00990275 Used by deaf or speech impaired customers
+Sort Code 40-06-15 www.hsbe.co.uk
+
+—— = 5022-3 4562 C0452 00584 00508 ZO001S
+Opening Balance € [MASKED_AMOUNT]
+= Payments In € [MASKED_AMOUNT]
+Payments Out € [MASKED_AMOUNT]
+Closing Balance € [MASKED_AMOUNT]
+Account Type CURRENT/EUROPEAN CURRENCY
+
+07" February 2014 Intemational Bank Account Number
+
+IDLGB225278/00990274
+AHMAD MUSTAPHA DAFER
+43 Great Sutton Street, London ECIV 2DB, HSBCGB2LXXX
+United Kingdom
+
+Transactions
+Description
+
+41.Jan13___ Balance B/F [MASKED_AMOUNT]
+
+“Received trom |. a On 7 aa ere
+Credit ___1,000,000,000,00_ ___4,000,000,000.00
+
+Payment to Niet Mige Payt  —_— SO _— oo
+
+ident Fund | by
+28Feb13 Draft Debit 200,000,000.00 3,500,000,000.00
+
+05 Mar 13 ___ Direct Debit HSBC UK Debit 1,000,000,000.00 2,500,000,000.00
+
+Received from Microsoft UK
+21 Mar 13 __ Account $04x0649 Credit ____300,000,000.00 __2,800,000,000.00_
+
+29Mar13__ Transfer from Sort Code 20-10-53 __ Credit 500,000,000.00 __ 3,300,000,000.00
+
+8 May13___ Payment to Exxon Mobil Unlimited __Debit____100,000,000.00 _3,200,000,000.00_
+
+45 May 13__ Received from British Petroleum __Credit 55,000,000.00____3,255,000,000.00
+
+29May 13__ Payment to Board of Internal____ Debit 5,000,000.00 3,250,000,000.00
+
+07 Feb14 Closing Balance [MASKED_AMOUNT]
+
+Correspondence: HSBC Bank PLC Sort Code 40-05-15 Statement page 1
+
+Ultimate Holding Company: 8 Canada Square London EI 4 5HQ United Kingdom
+
+

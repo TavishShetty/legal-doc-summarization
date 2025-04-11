@@ -1,0 +1,64 @@
+a Se
+
+=A a 2 a=
+
+Shipper Address Billing Address Receiver Address
+
+Michael Michael AMAZON.COM
+
+Michael Michael AMAZON RETURNS - RETURNS DEPARTMENT
+3837 Bay Lake Trail
+Ste 113
+
+Israel Israel North Las Vegas
+Nevada
+United States of America
+89030-4448
+
+Invoice number / Reference number:
+
+Invoice date / Date of issue:
+
+1040973
+2023-02-05
+
+Shipment Details
+
+International Information
+
+Shipment Date: 2023-02-05 Declared Value: 729.56 USD
+Waybill Number: XXXX-XXXX-3963 Duties and Taxes: Receiver
+Service Type: EXPRESS WORLDWIDE Dutiable status: Dutiable
+Packaging Type: PACKAGE
+
+Number of Pieces: 1
+
+Total Weight: 1.00kg
+
+Dimensional Weight: 1.20kg
+
+Chargeable Weight: 1.50kg
+
+Insured Amount:
+
+Booking Reference: PRG230206086489
+
+Shipment Collection Date: 2023-02-06
+
+Shipment Reference:
+
+Description of Contents: | Personal Computer processor
+
+TOTAL PRICE PAID: 184.19 ILS
+
+Charge Breakdown:
+
+Description Net Price VAT Rate VAT Amount | Total Price | Currency Note
+Transportation Charges 140.87 0.00 0.00 140.87 | ILS
+Fuel Surcharge 41.68 0.00 0.00 41.68 | ILS
+Emergency Situation 1.64 0.00 0.00 1.64 | ILS
+Total 184.19 0.00 184.19 /ILS
+
+Page 1/2
+
+

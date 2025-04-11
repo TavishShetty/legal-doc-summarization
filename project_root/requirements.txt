@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+requests
+sentence-transformers
+chromadb
+transformers
+numpy
+nltk
+torch

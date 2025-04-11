@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate Commit Messages
+        run: |
+          set -e
+          commits=$(git log --format="%H %s" --no-merges -n 5)
+          regex="^(feat|fix|docs|style|refactor|test|chore)(\(.+\))?: .{10,}$"
+
+          echo "Checking last 5 commit messages..."
+          echo "$commits" | while read -r commit; do
+            msg=$(echo "$commit" | cut -d ' ' -f2-)
+            if ! [[ $msg =~ $regex ]]; then
+              echo "❌ Commit message does not follow the standard:"
+              echo "  - Format: <type>(<scope>): <subject>"
+              echo "  - Type: feat, fix, docs, style, refactor, test, chore"
+              echo "  - Example: fix(auth): resolve login issue"
+              echo "Bad commit message: $msg"
+              exit 1
+            fi
+          done
+          echo "✅ All commit messages follow the standard format."

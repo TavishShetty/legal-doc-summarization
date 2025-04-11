@@ -1,0 +1,229 @@
+JP MORGAN CHASE BANK, N.A., TORONTO BRANCH
+
+STANDARD BUSINESS ACCOUNT SERVICE CHARGES / STATEMENT OF DISCLOSURE
+Effective JANUARY 1, 2013
+
+CHARGE
+
+CHARGE
+CANADIAN USD
+ACCOUNTS ACCOUNTS
+
+SERVICE Unit of Measure
+
+Business Account Services
+
+Account Maintenance
+
+Daily Single Branch ZBA Sweep
+
+Interim Bank Statement
+
+Account Statement Paper - Daily
+
+Account Statement Paper - Weekly
+
+Account Statement Paper - Monthly
+
+Paper Check Return
+
+Paper Check Return Maintenance
+
+Incoming Electronic Funds Transfer (EFT) Credit
+Incoming Electronic Funds Transfer (EFT) Debit
+Check Certification
+
+Bank Confirmation
+
+Bank Credit Check
+
+Cash and Coin Supply
+
+Business Account Closing
+
+Inactive Account
+
+Unclaimed Balances - Inactive Account
+
+Cash Deposit Services
+
+Cash Deposits
+
+Check Deposit Services
+
+Check Deposit Credit Entry
+
+Deposited Item
+
+Mail Deposit
+
+Post-Dated Check Held For Deposit
+Returned Check - for any reason including NSF
+Over The Counter (OTC) Deposit
+
+Over The Counter (OTC) Deposit Service Item
+
+Electronic Image Capture and Storage
+CD Image Capture and Storage
+
+CD Check Imaging Service
+
+Stop Payment
+
+NSF Charge
+
+Check Overdraft Fee
+
+Bank Draft Issuance
+
+CAD [MASKED_AMOUNT]
+CAD 55.00
+CAD 5.00
+CAD [MASKED_AMOUNT]
+CAD [MASKED_AMOUNT]
+CAD [MASKED_AMOUNT]
+CAD 0.04
+CAD 30.00
+CAD 0.80
+CAD 0.80
+CAD 10.00
+CAD 20.00
+CAD [MASKED_AMOUNT]
+N/A
+
+No Charge
+
+No Charge
+
+No Charge
+
+CAD 2.50
+
+CAD 0.80
+CAD 0.15
+CAD 5.00
+CAD 2.00
+CAD 5.00
+CAD 1.85
+CAD 0.10
+CAD [MASKED_AMOUNT]
+
+CAD 0.90
+
+CAD 0.10
+CAD 40.00
+CAD 0.04
+CAD 9.00
+CAD 20.00
+CAD 5.00
+CAD 10.00
+
+USD [MASKED_AMOUNT]
+USD 55.00
+USD 5.00
+USD [MASKED_AMOUNT]
+USD [MASKED_AMOUNT]
+USD [MASKED_AMOUNT]
+USD 0.04
+USD 30.00
+USD 0.80
+USD 0.80
+USD 10.00
+USD 20.00
+USD [MASKED_AMOUNT]
+N/A
+
+No Charge
+
+No Charge
+
+N/A
+
+USD 2.50
+
+USD 0.80
+USD 0.15
+USD 5.00
+USD 2.00
+USD 5.00
+USD 1.85
+USD 0.10
+USD [MASKED_AMOUNT]
+
+USD 0.90
+
+USD 0.10
+USD 30.00
+USD 0.03
+USD 9.00
+USD 20.00
+USD 5.00
+USD 10.00
+
+Monthly fee
+
+Monthly fee
+
+Per additional statement
+Per account
+
+Per account
+
+Per account
+
+Per check item
+
+Monthly maintenance fee
+Per transaction
+
+Per transaction
+
+Per check
+
+Per confirmation
+
+Per credit check
+
+Not a standard offering
+
+Per account regardless of when the account was opened
+
+Inactive after 12 consecutive months of inactivity. Notice
+is sent at two and five years of inactivity.
+
+After nine years of inactivity, account will be closed and
+the balance will be transferred to the Bank of Canada.
+
+Per $[MASKED_AMOUNT] deposited (minimun charge of $[MASKED_AMOUNT])
+
+Per transaction (One day float applied to USD items)
+Per item
+
+Per deposit
+
+Per check (Maximum ten days future dated)
+
+Per item
+
+Per deposit
+
+Per item
+
+Per check
+
+Per item (USD items eligible for Canadian clearing only)
+
+Per check imaged (7 year archive)
+PerCD
+
+Per check imaged
+
+Per item
+
+Per item
+
+Check causing/increasing overdraft
+Per draft
+
+J.P Morgan
+
